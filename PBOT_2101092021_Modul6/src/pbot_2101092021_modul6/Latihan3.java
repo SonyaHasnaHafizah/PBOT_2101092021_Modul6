@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
 public class Latihan3 {
     public static void main (String[] args){
         //BufferedReader
-        System.out.println("-->Program Perpangkatan<--");
+        System.out.println("-->Program Cetak Seratus Kali<--");
         BufferedReader dataIn = new BufferedReader(new InputStreamReader(System.in));
       
         String nama = "";
